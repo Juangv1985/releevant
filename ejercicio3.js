@@ -17,6 +17,7 @@ if (number1 === number2) {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //NOEL DEJA DE JUGAR AL TFT
 =======
 //Ahora con tres numeros diferentes.
@@ -26,3 +27,7 @@ if (number1 === number2) {
 =======
 //Ahora con tres numeros diferentes.
 >>>>>>> dani
+=======
+//Ahora con tres numeros diferentes.
+esto esta mal
+>>>>>>> antonio
