@@ -9,6 +9,8 @@ const prompt = require("prompt-sync")();
 const number1 = Number(prompt("Introduce el primer numero: "));
 const number2 = Number(prompt("Introduce el segundo numero: "));
 
+let Francesco = "The best";
+
 
 if (number1 === number2) {
     console.log("Los numeros son iguales ");
