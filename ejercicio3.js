@@ -18,4 +18,10 @@ if (number1 === number2) {
     console.log("El segundo numero es menor");
 }
 
+<<<<<<< HEAD
 //NOEL DEJA DE JUGAR AL TFT
+=======
+//Ahora con tres numeros diferentes.
+
+// yo me llamo pepe
+>>>>>>> 52ea1b6a6f10a199d3578c18f1d5ce22dd6111fa
